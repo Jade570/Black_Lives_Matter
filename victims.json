@@ -1,0 +1,66 @@
+[{
+  "name": "Kenneth Chamberlain",
+  "color" : [177, 88, 92],
+  "last_word" : "Officers, Why do you have your guns out?"
+},
+{
+  "name": "Kendrec McDade",
+  "color" : [147, 68, 145],
+  "last_word" : "Why did you shoot me?"
+},
+{
+  "name": "Trayvon Martin",
+  "color" : [190, 206, 188],
+  "last_word" : "What are you following me for?"
+},
+{
+  "name": "Kimani Gray",
+  "color" : [245, 178, 170],
+  "last_word" : "Please don't let me die"
+},
+{
+  "name": "Eric Garner",
+  "color" : [107, 118, 174],
+  "last_word" : "I can't breathe"
+},
+{
+  "name": "Michael Brown",
+  "color" : [32, 47, 85],
+  "last_word" : "I don't have a gun. Stop shooting"
+},
+{
+  "name": "Christian Taylor",
+  "color" : [2, 66, 140],
+  "last_word" : "I don't wanna die young"
+},
+{
+  "name": "Samuel DuBose",
+  "color" : [247, 167, 160],
+  "last_word" : "I didn't even do nothing"
+},
+{
+  "name": "Walter Scott",
+  "color" : [227, 131, 164],
+  "last_word" : "They tasing me"
+},
+{
+  "name": "Freddie Gray",
+  "color" : [82, 78, 77],
+  "last_word" : "I can't breathe"
+},
+{
+  "name": "Natasha Mckenna",
+  "color" : [33, 41, 126],
+  "last_word" : "You promised you wouldn't kill me"
+},
+{
+  "name": "Philando Castile",
+  "color" : [89, 185, 198],
+  "last_word" : "I wasn't reaching for it"
+},
+{
+  "name": "George Floyd",
+  "color" : [250, 206, 157],
+  "last_word" : "I can't breathe"
+}
+]
